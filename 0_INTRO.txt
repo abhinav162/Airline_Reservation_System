@@ -1,0 +1,22 @@
+INTRODUCTION
+
+An airline reservation system is a computerized system used by airline carriers and travel agencies to store and retrieve information on airline schedules, fares, and passenger reservations. 
+It is a database that stores information about airline flights. This information includes flight times, source and destinations The system also allows customers to book and flights, as well as view flight information.
+This system is designed to streamline the reservations process for both airlines and passengers. It allows airlines to keep track of their inventory and make changes to their schedule in real-time. 
+
+
+OBJECTIVES
+
+
+The main objective of the project is to provide a computerized system to automate the process of booking tickets and to maintain the database of the airline. The system will be able to handle all the operations of the airline. The system will be able to handle the following operations:
+
+1.	Booking of tickets
+2.	Cancellation of tickets
+3.	Displaying the flight details
+4.	Displaying the passenger details
+5.	Displaying the ticket details
+6.	Displaying the flight schedule
+7.	Displaying the passenger list
+8.	Displaying the ticket list
+9.	Displaying the flight list
+
